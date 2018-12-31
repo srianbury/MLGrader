@@ -19,10 +19,10 @@ This project was created to replace the traditional scantron used in schools in 
   - python main.py (this will start the server and allow you to call the API)
 7. Calling the API
   - I use Postman but any API development program will be fine
-  Request Type: POST
-  URL: http://127.0.0.1:5000/
-  Header: Key: Content-Type, Value: image/jpeg
-  Body: Key: image, value: brians_test.jpeg (or your test file)
+  - Request Type: POST
+  - URL: http://127.0.0.1:5000/
+  - Header: Key: Content-Type, Value: image/jpeg
+  - Body: Key: image, value: brians_test.jpeg (or your test file)
 
 ## Motivation
 Filling in bubbles and boxes on Scantrons is a hassel and takes too much time.  Students should be focused on reading and answering questions when taking an assessment, and not how well their bubbles are filled in.  Machine learning is as powerful as it has ever been and has an great solution for this problem.  Additionally, with this solution anyone with a copy of the document (available for free!) and a printer can print a test sheet.
