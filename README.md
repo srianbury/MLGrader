@@ -41,3 +41,6 @@ Here is a list of things I will try to add and want to implement.
   
 3. Model Code
   - The saved models are available but I need to add the Python Notebooks that created those models.
+  
+4. Simple React App
+  - Create a simple react app where the api is consumed and results are displayed
